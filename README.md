@@ -1,16 +1,50 @@
-## Hi there 👋
+##👨‍💻 Mateus do Nascimento
 
-<!--
-**dev-mateusnasc/dev-mateusnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Análise e Desenvolvimento de Sistemas (4º período)  
+- Foco em Lógica de Programação e Desenvolvimento em Python  
+- Em constante evolução na área de Tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de ADS com foco em fortalecimento da base em lógica de programação.
+Desenvolvi diversos exercícios práticos utilizando Python, aplicando conceitos como:
+
+- Estruturas condicionais
+- Estruturas de repetição
+- Cálculos matemáticos
+- Algoritmos
+- Validações lógicas
+- Biblioteca math
+
+---
+
+## Tecnologias
+
+- Python
+- Lógica de Programação
+- Algoritmos
+
+---
+
+## Projetos iniciais
+
+- Sistema de Operações Matemáticas  
+- Calculadora de Hipotenusa  
+- Verificador de Ano Bissexto  
+- Simulador de Multa por Velocidade  
+- Conversor de Moeda  
+- Sistema de Cálculo Percentual  
+- Jogo de Adivinhação  
+- Gerador de Tabuada  
+
+---
+
+## 📫 Contato
+
+LinkedIn: (https://www.linkedin.com/in/mateus-nascimento-a77aa1280/) 
+Email: (semhmateusn@gmail.com)
+
+
+
