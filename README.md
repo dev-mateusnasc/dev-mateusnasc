@@ -43,7 +43,7 @@ Desenvolvi diversos exercícios práticos utilizando Python, aplicando conceitos
 
 ## 📫 Contato
 
-LinkedIn: (https://www.linkedin.com/in/mateus-nascimento-a77aa1280/) 
+LinkedIn: (https://www.linkedin.com/in/dev-mateusnasc/) 
 Email: (semhmateusn@gmail.com)
 
 
