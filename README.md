@@ -1,4 +1,4 @@
-##👨‍💻 Mateus do Nascimento
+👨‍💻 Mateus do Nascimento
 
 - Estudante de Análise e Desenvolvimento de Sistemas (4º período)  
 - Foco em Lógica de Programação e Desenvolvimento em Python  
